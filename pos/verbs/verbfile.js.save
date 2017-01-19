@@ -1,0 +1,7 @@
+module.exports.verbs = [
+ 'jumps',
+ 'speaks',
+ 'pillages'
+];
+
+
