@@ -4,7 +4,9 @@ module.exports.verbs = [
     'kick',
     'jump',
     'selfie',
-    'sleep'
+    'sleep',
+    'dance',
+    'laugh'
 ];
 
 
