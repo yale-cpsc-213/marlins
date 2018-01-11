@@ -1,32 +1,32 @@
 {
   "name": "madlibs",
   "version": "1.0.0",
-  "description": "Madlibs activity for CPSC113",
+  "description": "Madlibs activity for CPSC213",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
-  "author": "CPSC 113",
+  "author": "CPSC 213",
   "license": "UNLICENSED",
   "dependencies": {
-    "express": "^4.11.1",
+    "express": "^4.16.2",
     "lodash": "^4.17.4",
-    "nunjucks": "^3.0.0"
+    "nunjucks": "^3.0.1"
   },
   "devDependencies": {
-    "gulp": "^3.9.0",
-    "gulp-jshint": "^2.0.0",
-    "gulp-nodemon": "^2.0.6",
-    "jshint": "^2.9.1",
-    "nodemon": "^1.3.3"
+    "gulp": "^3.9.1",
+    "gulp-jshint": "^2.1.0",
+    "gulp-nodemon": "^2.2.1",
+    "jshint": "^2.9.5",
+    "nodemon": "^1.14.11"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yale-cpsc-113/cpsc113-madlibs.git"
+    "url": "git+https://github.com/yale-cpsc-213/madlibs.git"
   },
   "bugs": {
-    "url": "https://github.com/yale-cpsc-113/cpsc113-madlibs/issues"
+    "url": "https://github.com/yale-cpsc-213/madlibs/issues"
   },
-  "homepage": "https://github.com/yale-cpsc-113/cpsc113-madlibs#readme"
+  "homepage": "https://github.com/yale-cpsc-213/madlibs#readme"
 }
