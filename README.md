@@ -23,9 +23,11 @@ For this activity, you will use what you've learned about git to work collaborat
     an invite so you can log in without a credit card.) 
 
 
-5.    If working locally, you'll need to clone
+5.  You'll need to clone
     the starter repo using the `git clone`
-    command. The clone url is displayed on GitHub, above the repository file browser.
+    command. The clone url is displayed on GitHub, above the repository file browser. If you've set up your 
+    [ssh keys on github](https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/), you won't need to type your
+    password in the future, which is sweet.
 
 6. Your group will be assigned to one of five responsibilities:
     stories, verbs, nouns, adjectives, or adverbs.
