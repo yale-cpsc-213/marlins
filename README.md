@@ -40,10 +40,8 @@ For this activity, you will use what you've learned about git to work collaborat
 7. Take a look around at the files
     Familiarize yourself where everything lives. You'll use the shell commands `cd` to change
    directories and `ls` to see what is each directory.
-8. Create a new branch
-   It might help to give your group a name. Then, you can make your branch something like
-    "fantastic-falcons-verbs" or "bouncing-bears-adverbs".
-9. Create a new file
+
+8. Create a new file
 
     Technically, you can also edit existing files, but that will make my job of merging harder!
     If you want to make a new file of verbs, you should first choose a file name. For example,
